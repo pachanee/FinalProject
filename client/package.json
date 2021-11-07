@@ -2,7 +2,7 @@
   "name": "nodevue-project-client",
   "version": "1.0.0",
   "description": "vuejs-project",
-  "author": "zthugg1243 <littelmind.69@gmail.com>",
+  "author": "guhtzx <sirirakp62@nu.ac.th>",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
